@@ -20,7 +20,7 @@ Vulnerability #1: In the blue site when choosing a specific salesperson you can 
 https://imgur.com/4LSJ9YV
 
 Vulnerability #2: In the blue site when logged in as admin you can get your phpsessionid and on a different browser while not logged in the blue site you can view your phpsessionid and replace it with the admin phpsessionid. Onced changed you can it will log you in automatically as an admin.
-![ALT text](https://imgur.com/a/pZsIk)
+https://imgur.com/a/pZsIk
 
 ## Green
 
