@@ -17,7 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: In the blue site when choosing a specific salesperson you can add the sql injection in the end of the url and it won't redirect you like the red and green site does.
-![ALT text](https://imgur.com/a/C5aUf)
+![ALT text](https://imgur.com/4LSJ9YV)
 
 Vulnerability #2: In the blue site when logged in as admin you can get your phpsessionid and on a different browser while not logged in the blue site you can view your phpsessionid and replace it with the admin phpsessionid. Onced changed you can it will log you in automatically as an admin.
 ![ALT text](https://imgur.com/a/pZsIk)
