@@ -28,7 +28,7 @@ Vulnerability #1 In the log in section for green I tried logging with nonexistin
 https://imgur.com/a/zXTyj
 
 Vulnerability #2: In the contact us section for the green site I inputed the script and as the admin logs in and checks the feedback it will be executed
-https://imgur.com/a/C5aUf
+https://imgur.com/KWOtscd
 
 ## Red
 
